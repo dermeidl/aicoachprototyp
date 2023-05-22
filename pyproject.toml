@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "aicoachprototyp"
+version = "0.1.0"
+description = "Dashbaord for AI-Coach"
+authors = ["Patrick"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^2.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.0"
