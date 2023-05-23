@@ -1,3 +1,4 @@
+pip==23.1.2
 alembic==1.11.0
 blinker==1.6.2
 certifi==2023.5.7
