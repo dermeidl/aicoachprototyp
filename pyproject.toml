@@ -5,7 +5,6 @@ description = "Dashbaord for AI-Coach"
 authors = ["Patrick"]
 
 [tool.poetry.dependencies]
-[tool.poetry.dependencies]
 alembic==1.11.0
 blinker==1.6.2
 certifi==2023.5.7
